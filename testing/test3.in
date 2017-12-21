@@ -1,0 +1,7 @@
+load students;
+load enrolled;
+load schedule;
+print schedule;
+select CCN,Num,Dept,Time,Room,Sem,Year from schedule;
+quit;
+

@@ -1,0 +1,73 @@
+DB61B System.  Version 2.0.
+> Loaded test1.db
+> Loaded test2.db
+> Search results:
+  2 babak F G M
+  2 denero F G M
+  2 hilfinger A 101 A
+  2 paulin F G M
+  2 vladmir F G M
+  23 babak F CS MM
+  23 denero F CS MM
+  23 paulin F CS MM
+  23 vladmir F CS MM
+  3 hutchings A- 102 B
+  M hilfinger A E S
+  S babak F 2 S
+  S denero F 2 S
+  S paulin F 2 S
+  S vladmir F 2 S
+  U babak F F 3
+  U denero F F 3
+  U paulin F F 3
+  U vladmir F F 3
+> Search results:
+  babak ee 16a F F 3 U
+  babak ee 16a F G M 2
+  denero cs 61a F F 3 U
+  denero cs 61a F G M 2
+  hilfinger cs 61b A E S M
+  paulin math 1a F F 3 U
+  paulin math 1a F G M 2
+  vladmir ee 16a F F 3 U
+  vladmir ee 16a F G M 2
+> Search results:
+  babak ee 16a 2
+  babak ee 16a CS
+  babak ee 16a F
+  babak ee 16a G
+  hilfinger cs 61b 101
+  hilfinger cs 61b E
+  hutchings math 54 102
+  paulin math 1a 2
+  paulin math 1a CS
+  paulin math 1a F
+  paulin math 1a G
+  reshekin math 1b 103
+  reshekin math 1b 4
+  vladmir ee 16a 2
+  vladmir ee 16a CS
+  vladmir ee 16a F
+  vladmir ee 16a G
+> Search results:
+  babak 2 S
+  babak CS MM
+  babak F 3
+  babak G M
+  chavez 4 S
+  denero 2 S
+  denero CS MM
+  denero F 3
+  denero G M
+  hilfinger 4 S
+  hilfinger E S
+  paulin 2 S
+  paulin CS MM
+  paulin F 3
+  paulin G M
+  reshekin 4 S
+  vladmir 2 S
+  vladmir CS MM
+  vladmir F 3
+  vladmir G M
+> 

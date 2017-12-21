@@ -1,0 +1,9 @@
+load students;
+load enrolled;
+load schedule;
+print schedule;
+select CCN,Num,Dept,Time,Room,Sem,Year from schedule;
+select SID, Firstname, CCN from students, enrolled where SID > '103' and CCN < '21200';
+select SID,Firstname,Dept from students, schedule where SID >= '102' and Major = 'EECS';
+quit;
+

@@ -1,0 +1,8 @@
+load test1;
+load test2;
+select F,A,C,D,E from test2, test1 where D < A and B > F and C != 'A+';
+select A,B,C,D,E,F from test1, test2 where D >= C;
+select A,B,D from test1,test2 where B>'cs 61a';
+select A,D,E from test1, test2 where D>='2';
+quit;
+
